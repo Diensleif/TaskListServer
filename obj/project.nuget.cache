@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oHKkDRy4eKPo+92PhQz9w3i4idsKlznXko6HxOFTxFtO/AAZ2KPEiDhF8iXp4CSu+hdCxXx8uOhDmflxQt4a4w==",
+  "success": true,
+  "projectFilePath": "D:\\Daniel\\Собеседование\\TaskListServer\\TaskListServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lesni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\lesni\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\lesni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\lesni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
