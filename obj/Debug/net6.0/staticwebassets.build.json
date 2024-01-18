@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P4OYNWLhEhmAfvnHn0gbKeVM22efY7rnNHnLiHjTwdk=",
+  "Source": "TaskListServer",
+  "BasePath": "_content/TaskListServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
