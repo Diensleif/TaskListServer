@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\index.js"
     },
     {
+      "Id": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\task-list.css",
+      "PackagePath": "staticwebassets\\task-list.css"
+    },
+    {
+      "Id": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\task-list.html",
+      "PackagePath": "staticwebassets\\task-list.html"
+    },
+    {
+      "Id": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\task-list.js",
+      "PackagePath": "staticwebassets\\task-list.js"
+    },
+    {
+      "Id": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\trash.svg",
+      "PackagePath": "staticwebassets\\trash.svg"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TaskListServer.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
