@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TaskListServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TaskListServer.props",
+      "PackagePath": "build\\TaskListServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskListServer.props",
+      "PackagePath": "buildMultiTargeting\\TaskListServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TaskListServer.props",
+      "PackagePath": "buildTransitive\\TaskListServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

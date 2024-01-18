@@ -1,11 +1,77 @@
 {
   "Version": 1,
-  "Hash": "P4OYNWLhEhmAfvnHn0gbKeVM22efY7rnNHnLiHjTwdk=",
+  "Hash": "j3giJKYWtITzMtQy0i7tQ9BZKGzFPLIPZYBoCyZYLjA=",
   "Source": "TaskListServer",
   "BasePath": "_content/TaskListServer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskListServer\\wwwroot",
+      "Source": "TaskListServer",
+      "ContentRoot": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\",
+      "BasePath": "_content/TaskListServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\index.css",
+      "SourceId": "TaskListServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\",
+      "BasePath": "_content/TaskListServer",
+      "RelativePath": "index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.css"
+    },
+    {
+      "Identity": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\index.html",
+      "SourceId": "TaskListServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\",
+      "BasePath": "_content/TaskListServer",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\index.js",
+      "SourceId": "TaskListServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Daniel\\Собеседование\\TaskListServer\\wwwroot\\",
+      "BasePath": "_content/TaskListServer",
+      "RelativePath": "index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.js"
+    }
+  ]
 }

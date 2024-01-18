@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <div class="authorization-form" id="authorization-form">
+            <label class="caption">Авторизация</label>
+            <input class="text-box" type="text" placeholder="Login" id="af-login-input"/>
+            <input class="text-box" type="password" placeholder="Password" id="af-password-input"/>
+            <input class="button" type="button" value="Авторизоваться" id="authorization-button"/>
+            <a class="inline-button" id="goto-registration-button">Зарегистрироваться</a>
+        </div>
+        <div class="registration-form">
+            <label class="caption">Регистрация</label>
+            <input class="text-box" type="text" placeholder="Login" id="rf-login-input"/>
+            <input class="text-box" type="password" placeholder="Password" id="rf-password-input"/>
+            <input class="button" type="button" value="Зарегистрироваться" id="registration-button"/>
+            <a class="inline-button" id="goto-authorization-button">Авторизоваться</a>
+        </div>
+    </div>
+</body>
+<script src="index.js"></script>
+</html>

@@ -73,3 +73,4 @@ D:\Daniel\Собеседование\TaskListServer\obj\Debug\net6.0\refint\Task
 D:\Daniel\Собеседование\TaskListServer\obj\Debug\net6.0\TaskListServer.pdb
 D:\Daniel\Собеседование\TaskListServer\obj\Debug\net6.0\TaskListServer.genruntimeconfig.cache
 D:\Daniel\Собеседование\TaskListServer\obj\Debug\net6.0\ref\TaskListServer.dll
+D:\Daniel\Собеседование\TaskListServer\bin\Debug\net6.0\TaskListServer.staticwebassets.runtime.json
