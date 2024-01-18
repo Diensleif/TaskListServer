@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskListServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f53da86d4dfd2c8834b7e6b84244bdb83f32b77")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskListServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskListServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
